@@ -1,7 +1,7 @@
-  {
+{
     "version": "1.9",
     "url": "https://github.com/xfdapps/bikeop-firmware/releases/latest/download/bikeop.bin",
-    "size": 1470848,
-    "sha256": "replace-with-lowercase-sha256-of-bikeop.bin",
-    "notes": "Latest firmware for BikeOp OTA Updates"
+    "size": 1473328,
+    "sha256": "c94c93f998037d9826c461392e19280b2f050809e4cdb6aa2593b12d4448a972",
+    "notes": "OTA test build"
   }

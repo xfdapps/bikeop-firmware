@@ -1,6 +1,6 @@
 {
     "version": "1.10",
-    "url": "https://github.com/xfdapps/bikeop-firmware/blob/main/bikeop-v1-10.bin",
+    "url": "https://raw.githubusercontent.com/xfdapps/bikeop-firmware/main/bikeop-v1-10.bin",
     "size": 1473104,
     "sha256": "3E297A81FD709B9C3D14897F987F614C1EB7F2A502E16BC7C01AEE11D457328D",
     "notes": "OTA test build"
